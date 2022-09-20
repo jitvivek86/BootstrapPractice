@@ -14,9 +14,6 @@ h1{
 
 }
 
-h3{
-  font-family: "Montserrat-Bold", sans-serif;
-}
 h2{
   font-family: "Montserrat-Black", sans-serif;
   font-size: 3rem;
@@ -24,7 +21,7 @@ h2{
 }
 h3{
   font-family: "Montserrat-Black", sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 1.5;
 }
 p{
@@ -55,7 +52,7 @@ p{
   width: 20%;
   transform: rotate(20deg);
   position: absolute;
-  righ: 30%;
+  right: 30%;
 }
 
 .featureAlign{
@@ -131,6 +128,8 @@ p{
   background-color: #fff;
   text-align: center;
   margin-top: 3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 .social-left{
   padding-left: 20px;
